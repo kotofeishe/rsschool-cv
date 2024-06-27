@@ -1,6 +1,7 @@
-# **Migunova Ksenia** <h1>
-## 32 years old <h2>
+# **Migunova Ksenia**<h1>
+## 32 years old<h2>
 ![my photo](/assets/images/markdown/photo.jpg)
+
 *tel: +7 902 132 87 96*  
 *telegram: @ksenia_website*  
 *github: @kotofeishe*
