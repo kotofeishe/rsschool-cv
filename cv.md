@@ -1,6 +1,6 @@
 # **Migunova Ksenia**<h1>
 ## 32 years old<h2>
-![my photo](/assets/images/markdown/photo.jpg)
+![my photo](https://github.com/kotofeishe/rsschool-cv/blob/gh-pages/photo.jpg?raw=true)
 
 *tel: +7 902 132 87 96*  
 *telegram: @ksenia_website*  
