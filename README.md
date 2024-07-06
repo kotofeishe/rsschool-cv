@@ -1,1 +1,1 @@
-https://kotofeishe.github.io/rsschool-cv/cvs
+https://kotofeishe.github.io/rsschool-cv/
