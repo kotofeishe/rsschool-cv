@@ -16,7 +16,7 @@ body {
     width: 800px;
     margin: 0 auto;
     background-color: #e4e4e4;
-    border: 1px solid #505050;
+    
   }
 
   .nav-list {
@@ -87,4 +87,21 @@ html {
 .footer {
     height: 200px;
     background-color: blueviolet;
+}
+
+.logo {
+    width: 180px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding-right: 40px;
+    line-height: 2em;
+}
+.footer-link {
+    color:white;
 }
