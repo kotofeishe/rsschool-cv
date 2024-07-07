@@ -3,8 +3,80 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>cv</title>
+    <link rel="stylesheet" href="style.css" >
+    <link rel="icon" href="assets/favicon-16.ico" >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 </head>
 <body>
+    <div class="container">
+
+        <header class="header">
+            <nav class="nav">
+                <ul class="nav-list">
+                  <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                  <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                  <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                  <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+                  <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                  <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+                </ul>
+              </nav>
+        </header>
+
+        <main class="main">
+            <div class="head2">
+                <div class="contacts">
+                    <h1 class="h1"> Migunova Ksenia </h1> 
+                    <p class="contact">
+                        tel: +7 902 132 87 96 <br>  
+                        telegram: @ksenia_website <br>
+                        github: <a href="https://github.com/kotofeishe">https://github.com/kotofeishe</a></p>
+                </div>
+                <img class="ava" src="photo.jpg" alt="my photo">
+            </div>
+
+            <h2 class="h2" id="summary"> Summary </h2>
+            <p class="description"> I want to study and learn something new. Now i am engaged in creating websites on the Tilda. I want to develop in this area and learn to create websites using code. </p>
+
+            <h2 class="h2" id="skills"> Skills </h2>
+            <ul class="description"> 
+                <li>HTML</li>
+                <li>CSS</li>
+            </ul>
+        
+            <h2 class="h2" id="code"> Code </h2>
+            <pre> <code class="code"> 
+        function sayHello(name) {
+                    return 'Привет, ' + name;
+                }
+        let greeting = sayHello('Венера');
+        console.log(greeting); 
+        alert(greeting); 
+            </code> </pre>
+
+            <h2 class="h2" id="projects"> Projects </h2>
+            <a target="_blank" class="description" href="https://kotofeishe.github.io/rsschool-cv/cv">https://kotofeishe.github.io/rsschool-cv/cv </a>
+            
+            <h2 class="h2" id="education"> Education </h2>
+            <p class="description"> Murmansk State Technical University. <br>  
+                Polytechnic Faculty  <br> 
+                Specialization: Automation of Technological Processes and Productions. <br>  
+                Graduation year: 2013. </p>
+
+                <h2 class="h2" id="english"> English </h2>
+                <p class="description"> Elementary </p>
+        </main>
+
+        <footer class="footer">
+           <a target="_blank" href="https://rs.school/courses/javascript-ru"> <img class="logo" src="./assets/logo.png" alt="logo"> </a>
+           <p class="footer-p"> Author: Migunova Ksenia <br>
+            Github: <a target="_blank" class="footer-link" href="https://github.com/kotofeishe">https://github.com/kotofeishe </a><br>
+            2024 
+        </footer>
+
+    </div>
 </body>
 </html>
