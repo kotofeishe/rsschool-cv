@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kotofeishe.github.io/rsschool-cv/
